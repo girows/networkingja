@@ -252,16 +252,7 @@ body{
     transform: rotate(-55deg);
     background-image: linear-gradient(to left bottom, #ffa085 ,#eb8b8b,#492f2f 98%);
 }
-.next-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #4CAF50; /* Green */
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 5px;
-    margin-top: 20px;
-}
+
 
 .flower__fall-down--yellow{
     animation: flower-fall-down-yellow  8s 1.2s linear forwards;
